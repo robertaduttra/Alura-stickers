@@ -4,4 +4,6 @@ Usando a arquitetura de microsserviços para consumir uma API de filmes do IMDB,
 Após isso construimos nossa própria API utilizando o Spring e integramos com o bando de dados não relacional, o MongoDd utilizando o Postman e por ultimo publicando nossa API no cloud. 
 
 
-
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
